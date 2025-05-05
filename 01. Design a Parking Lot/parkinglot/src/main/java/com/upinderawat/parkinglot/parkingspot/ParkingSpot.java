@@ -9,8 +9,8 @@ public class ParkingSpot {
     private Boolean isAvailable;
     private Vehicle currentVehicle;
 
-    public ParkingSpot(String parkingSpotid, ParkingSpotType parkingSpotType) {
-        this.parkingSpotId = parkingSpotid;
+    public ParkingSpot(String parkingSpotId, ParkingSpotType parkingSpotType) {
+        this.parkingSpotId = parkingSpotId;
         this.parkingSpotType = parkingSpotType;
         this.isAvailable = true;
     }

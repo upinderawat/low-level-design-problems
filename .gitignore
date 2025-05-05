@@ -34,3 +34,9 @@ build/
 .vscode/
 /.mvn/wrapper/maven-wrapper.properties
 /.mvn/
+/02. Design a Shopping Cart/shoppingcart/.mvn/wrapper/maven-wrapper.properties
+/02. Design a Shopping Cart/shoppingcart/mvnw
+/02. Design a Shopping Cart/shoppingcart/mvnw.cmd
+/01. Design a Parking Lot/parkinglot/.gitattributes
+/02. Design a Shopping Cart/shoppingcart/.gitattributes
+/01. Design a Parking Lot/parkinglot/.mvn/wrapper/maven-wrapper.properties
